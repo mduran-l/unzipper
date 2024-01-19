@@ -29,6 +29,11 @@ PHP 5.3 and newer
 ## Version
 Beta version state, use at you own risk.
 
+## Changelog
+Version 0.1.1g:
+* Added zip file name prefix
+* Added skip files and folders
+* Added filter to not zip .DS_Store files
 
 ## License
 Released under GNU/GPL v3
@@ -39,7 +44,7 @@ Released under GNU/GPL v3
 
 
 ## Updates    
-Get latest code at https://github.com/ndeet/unzipper
+Get latest code at https://github.com/mduran-l/unzipper
 
 
 ## Credits   
