@@ -34,6 +34,7 @@ Version 0.1.1g:
 * Added zip file name prefix
 * Added skip files and folders
 * Added filter to not zip .DS_Store files
+* Added filter to not zip files that match prefix, preventing to rezip previous tasks
 
 ## License
 Released under GNU/GPL v3
